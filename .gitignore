@@ -1,0 +1,8 @@
+# Ignore bin files
+bin/
+gen/
+.settings/
+.classpath
+.project
+project.properties
+proguard-project.txt
