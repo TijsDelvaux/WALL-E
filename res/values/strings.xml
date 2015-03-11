@@ -1,8 +1,9 @@
 <resources>
 
-    <string name="app_name">MyFirstIndoorsApp</string>
+    <string name="app_name">AceAgeNutDiscoveryGame</string>
     <string name="hello_world">Wait for position</string>
-    <string name="menu_settings">Settings</string>
+    <string name="app_description">A long, long time ago, the earth was covered with ice. Scrat, the squirrel, tries to find as many nuts as he can. Can you do better?</string><string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    
 
 </resources>
