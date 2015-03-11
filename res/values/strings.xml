@@ -5,8 +5,8 @@
     <string name="app_description">A long, long time ago, the earth was covered with ice. Scrat, the squirrel, tries to find as many nuts as he can. Can you do better?</string><string name="menu_settings">Settings</string>
     <string name="title_activity_main">Welcome!</string>
     
-    <string name="map_button">View position</string>
-    <string name="camera_button">Play game</string>
+    <string name="position_button">View position</string>
+    <string name="play_button">Play game</string>
     
     <string name="content_scrat">Image of Scrat, the nut searching squirrel</string>
 
