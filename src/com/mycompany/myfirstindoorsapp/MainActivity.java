@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.view.View;
 
+import com.mycompany.myfirstindoorsapp.PlayActivity.*;
+
 /**
  * Sample Android project, powered by indoo.rs :)
  * 
@@ -20,7 +22,7 @@ public class MainActivity extends FragmentActivity {
     }
     
     public void startPlay(View view) {
-    	//startActivity(new Intent(this, PlayActivity.class));
+    	startActivity(new Intent(this, PlayActivity.class));
     }
     
     public void startMap(View view) {
